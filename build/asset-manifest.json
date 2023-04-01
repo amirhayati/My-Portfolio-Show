@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a29acce2.css",
+    "main.js": "./static/js/main.db47ceb8.js",
+    "static/media/me-about.jpg": "./static/media/me-about.27857ea4d5854ceccaff.jpg",
+    "static/media/portfolio_map_chart.png": "./static/media/portfolio_map_chart.6a52caddc58934eecfcd.png",
+    "static/media/me.png": "./static/media/me.d65daf70d1d61debb3b0.png",
+    "static/media/portfolio_dashboard_main.png": "./static/media/portfolio_dashboard_main.8d73f186fcd4ba5a94f2.png",
+    "static/media/portfolio_list.png": "./static/media/portfolio_list.0cf2bdf91ef84e2f9809.png",
+    "static/media/portfolio_calender.png": "./static/media/portfolio_calender.e121d8536f4a77b89fe3.png",
+    "static/media/portfolio_line_chart.png": "./static/media/portfolio_line_chart.e09dee26f38300f33b2f.png",
+    "static/media/Coursera_React_Advance.png": "./static/media/Coursera_React_Advance.46e91cafa898cd41062a.png",
+    "static/media/Coursera_React_Basic.png": "./static/media/Coursera_React_Basic.2df7a8d9f59f07c1e9be.png",
+    "static/media/portfolio_form.png": "./static/media/portfolio_form.31a5f8f35f05a070f040.png",
+    "static/media/portfolio_pete.png": "./static/media/portfolio_pete.806f59bf24884d869cb7.png",
+    "static/media/daneshjooyar.png": "./static/media/daneshjooyar.c45d89c4ac8dbadb9b8d.png",
+    "static/media/cv.pdf": "./static/media/cv.38ffe908c8b3b70dd859.pdf",
+    "static/media/reactapp.png": "./static/media/reactapp.b836f70e69db9bc3d10f.png",
+    "index.html": "./index.html",
+    "main.a29acce2.css.map": "./static/css/main.a29acce2.css.map",
+    "main.db47ceb8.js.map": "./static/js/main.db47ceb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a29acce2.css",
+    "static/js/main.db47ceb8.js"
+  ]
+}
