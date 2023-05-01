@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "./static/css/main.a29acce2.css",
-    "main.js": "./static/js/main.db47ceb8.js",
-    "static/media/me-about.jpg": "./static/media/me-about.27857ea4d5854ceccaff.jpg",
-    "static/media/portfolio_map_chart.png": "./static/media/portfolio_map_chart.6a52caddc58934eecfcd.png",
-    "static/media/me.png": "./static/media/me.d65daf70d1d61debb3b0.png",
-    "static/media/portfolio_dashboard_main.png": "./static/media/portfolio_dashboard_main.8d73f186fcd4ba5a94f2.png",
-    "static/media/portfolio_list.png": "./static/media/portfolio_list.0cf2bdf91ef84e2f9809.png",
-    "static/media/portfolio_calender.png": "./static/media/portfolio_calender.e121d8536f4a77b89fe3.png",
-    "static/media/portfolio_line_chart.png": "./static/media/portfolio_line_chart.e09dee26f38300f33b2f.png",
+    "main.css": "./static/css/main.4c2b97d1.css",
+    "main.js": "./static/js/main.22854e03.js",
+    "static/media/me-about.jpg": "./static/media/me-about.5d025e7a71e53287b05a.jpg",
+    "static/media/me.png": "./static/media/me.76f86ecdcf43c5d9d478.png",
     "static/media/Coursera_React_Advance.png": "./static/media/Coursera_React_Advance.46e91cafa898cd41062a.png",
     "static/media/Coursera_React_Basic.png": "./static/media/Coursera_React_Basic.2df7a8d9f59f07c1e9be.png",
-    "static/media/portfolio_form.png": "./static/media/portfolio_form.31a5f8f35f05a070f040.png",
-    "static/media/portfolio_pete.png": "./static/media/portfolio_pete.806f59bf24884d869cb7.png",
-    "static/media/daneshjooyar.png": "./static/media/daneshjooyar.c45d89c4ac8dbadb9b8d.png",
-    "static/media/cv.pdf": "./static/media/cv.38ffe908c8b3b70dd859.pdf",
-    "static/media/reactapp.png": "./static/media/reactapp.b836f70e69db9bc3d10f.png",
+    "static/media/portfolio_map_chart.png": "./static/media/portfolio_map_chart.8b0466403b60f3d6e652.png",
+    "static/media/portfolio_dashboard_main.png": "./static/media/portfolio_dashboard_main.ad4ec99222bbb6cd6490.png",
+    "static/media/portfolio_list.png": "./static/media/portfolio_list.dc647f7d4b07371e3fe2.png",
+    "static/media/portfolio_calender.png": "./static/media/portfolio_calender.dee4716b8ae88c22187f.png",
+    "static/media/audio_shop.png": "./static/media/audio_shop.978517a75cb1c46fadcc.png",
+    "static/media/cv.pdf": "./static/media/cv.dbd7e2fbd0e0bea8ecfe.pdf",
+    "static/media/portfolio_form.png": "./static/media/portfolio_form.fd09c656848f9340a5c9.png",
+    "static/media/daneshjooyar.png": "./static/media/daneshjooyar.ad470172ad9a0222564e.png",
+    "static/media/portfolio_line_chart.png": "./static/media/portfolio_line_chart.860d7567d291b664aa7d.png",
+    "static/media/portfolio_pete.png": "./static/media/portfolio_pete.c88436732c53d14b524e.png",
+    "static/media/reactapp.png": "./static/media/reactapp.c61aa14510559f2afc94.png",
     "index.html": "./index.html",
-    "main.a29acce2.css.map": "./static/css/main.a29acce2.css.map",
-    "main.db47ceb8.js.map": "./static/js/main.db47ceb8.js.map"
+    "main.4c2b97d1.css.map": "./static/css/main.4c2b97d1.css.map",
+    "main.22854e03.js.map": "./static/js/main.22854e03.js.map"
   },
   "entrypoints": [
-    "static/css/main.a29acce2.css",
-    "static/js/main.db47ceb8.js"
+    "static/css/main.4c2b97d1.css",
+    "static/js/main.22854e03.js"
   ]
 }
